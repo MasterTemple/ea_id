@@ -27,6 +27,8 @@ cargo install --git https://github.com/MasterTemple/ea_id
 
 # Usage
 
+Note: Your `.env` file must be in the same directory that you run `ea_id` or `cargo run`
+
 ## Get User ID From Name
 
 If installed,
